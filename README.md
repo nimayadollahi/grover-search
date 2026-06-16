@@ -1,7 +1,7 @@
 # grover-search
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
-![Qiskit](https://img.shields.io/badge/Python-3.8%2B-purple?logo=python&logoColor=white)
+![Qiskit](https://img.shields.io/badge/Qiskit-1.0-purple?logo=Qiskit&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
